@@ -39,12 +39,9 @@ It uses **NLTK's VADER Sentiment Analyzer** to score posts and displays visual i
 
 5. Open the provided local URL in your browser.
 
----
 
 ## 🛠 Tech Stack
 
 * **Python** (NLTK, pandas, matplotlib, wordcloud)
 * **Streamlit** for the web interface
 * **PRAW** for Reddit API
-
----
