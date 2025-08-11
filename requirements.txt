@@ -1,0 +1,7 @@
+praw
+python-dotenv
+nltk
+pandas
+matplotlib
+streamlit
+wordcloud
