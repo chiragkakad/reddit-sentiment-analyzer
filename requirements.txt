@@ -4,4 +4,3 @@ nltk
 pandas
 matplotlib
 streamlit
-wordcloud
