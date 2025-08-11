@@ -15,7 +15,7 @@ It uses **NLTK's VADER Sentiment Analyzer** to score posts and displays visual i
    ```bash
    git clone https://github.com/chiragkakad/reddit-sentiment-analyzer.git
    cd reddit-sentiment-analyzer
-````
+```
 
 2. Install dependencies:
 
@@ -39,9 +39,8 @@ It uses **NLTK's VADER Sentiment Analyzer** to score posts and displays visual i
 
 5. Open the provided local URL in your browser.
 
-
 ## 🛠 Tech Stack
 
-* **Python** (NLTK, pandas, matplotlib, wordcloud)
+* **Python** (NLTK, pandas, matplotlib)
 * **Streamlit** for the web interface
 * **PRAW** for Reddit API
